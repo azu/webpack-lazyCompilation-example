@@ -1,4 +1,11 @@
-To run this example you need to install `webpack-dev-server` and run `webpack serve`.
+## webpack lazyCompilation plugin example
+
+    npm install
+    npm run dev
+
+- [Release v5.17.0 · webpack/webpack](https://github.com/webpack/webpack/releases/tag/v5.17.0)
+- [add experimental lazy compilation by sokra · Pull Request #12469 · webpack/webpack](https://github.com/webpack/webpack/pull/12469)
+- [webpack/examples/lazy-compilation at master · webpack/webpack](https://github.com/webpack/webpack/tree/master/examples/lazy-compilation)
 
 # example.js
 
